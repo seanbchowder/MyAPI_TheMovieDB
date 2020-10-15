@@ -1,0 +1,384 @@
+{
+  "page": 7,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 145931,
+      "original_language": "en",
+      "original_title": "Billion Dollar Limited",
+      "overview": "Robbers target a special train carrying a billion dollars worth of gold, and the only one who can stop them is Superman!",
+      "popularity": 2.833,
+      "poster_path": "/4fVcAw27D1ALr3zBIkQTnJH949H.jpg",
+      "release_date": "1942-01-09",
+      "title": "Billion Dollar Limited",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 16
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hh9VbHetJ0lZXYZPcxDaDDNhHF8.jpg",
+      "genre_ids": [],
+      "id": 91267,
+      "original_language": "zh",
+      "original_title": "\u751f\u9f8d\u6d3b\u864e\u5c0f\u82f1\u96c4",
+      "overview": "World War II Japan...the Japanese military learn that the Chinese government has stolen some secret military plans and that they will attempt to send them to Hong Kong via Macau. When a respected Chinese officer is ambushed, he must rely on his old friend (played by 'Bruce Liang' ) to help him overthrow the Japanese and successfully send the plans to Hong Kong.",
+      "popularity": 0.6,
+      "poster_path": "/xIVyC6dx5fjQLJLGYduF8SgvplW.jpg",
+      "release_date": "1975-12-09",
+      "title": "Little Superman",
+      "video": false,
+      "vote_average": 3,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cFQ3wF5s7qqRx2ZAm8T2Ax6nWp3.jpg",
+      "genre_ids": [
+        28,
+        12,
+        35,
+        878
+      ],
+      "id": 106922,
+      "original_language": "it",
+      "original_title": "Come rubare la corona d'Inghilterra",
+      "overview": "Argoman has a silly costume and is a sexist pig. He uses his special telekinetic powers to get the ladies to sleep with him. The catch is, after a night with a gal he loses his special powers for 6 hours!  In this comedic super/spy thriller, Argoman goes head to head against the evil Jenabelle: Queen of the World.",
+      "popularity": 1.026,
+      "poster_path": "/oc5RT6PLCOo0eD8pNATiWrfOBwk.jpg",
+      "release_date": "1967-03-24",
+      "title": "Argoman the Fantastic Superman",
+      "video": false,
+      "vote_average": 4.5,
+      "vote_count": 9
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        16,
+        14
+      ],
+      "id": 99678,
+      "original_language": "en",
+      "original_title": "The Magnetic Telescope",
+      "overview": "When police interfere with a reckless scientist's experiment, it creates a deadly meteor shower only Superman can stop.",
+      "popularity": 1.916,
+      "poster_path": "/3eyDin3a7AZjZBPfGLZN7CfZmqr.jpg",
+      "release_date": "1942-04-24",
+      "title": "The Magnetic Telescope",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 9
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        28,
+        16,
+        35
+      ],
+      "id": 690023,
+      "original_language": "en",
+      "original_title": "\u30ad\u30f3\u8089\u30de\u30f3 \u6b63\u7fa9\u8d85\u4eba\uff36\uff33\u53e4\u4ee3\u8d85\u4eba",
+      "overview": "While Kinnikuman is on vacation with Mari-san's kindergarten class at Easter Island, the young wheelchair-bound Kouichi-kun laments being with an idiot like Kinnikuman, preferring to instead be with his favorite Seigi Choujin Buffaloman. Meanwhile, the other Seigi Choujins are also vacationing at ancient landmarks.",
+      "popularity": 0.6,
+      "poster_path": "/d3MJUtf7IOcGyFHrJRNrgbNeYSn.jpg",
+      "release_date": "1985-03-16",
+      "title": "Kinnikuman: Justice Superman vs. Ancient Superman",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/o9LNQq9yxixVeIk5Y4yvEloyLaF.jpg",
+      "genre_ids": [
+        28,
+        16,
+        35
+      ],
+      "id": 672414,
+      "original_language": "ja",
+      "original_title": "\u30ad\u30f3\u8089\u30de\u30f3 \u6b63\u7fa9\u8d85\u4ebavs\u6226\u58eb\u8d85\u4eba",
+      "overview": "Meat-kun has been kidnapped by Iron Mask. In order to save Meat-kun, the treasure of Inmora Island is needed. Furthermore, the treasure is hidden in the Seven Story Tower, which is guarded by the brutal Senshi Choujins. When Kinnikuman asks Terryman and the Seigi Choujins to help him, for some reason they all refuse. Alone, Kinnikuman heads to Inmora Island to fight the Senshi Ch\u014djin and is overwhelmed by their great numbers.",
+      "popularity": 0.6,
+      "poster_path": "/ftqiTvC5KwadAEEbAyerNuMCXss.jpg",
+      "release_date": "1986-12-20",
+      "title": "Kinnikuman: Justice Superman vs. Soldier Superman",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        28
+      ],
+      "id": 451492,
+      "original_language": "cn",
+      "original_title": "\u9999\u6e2f\u8d85\u4eba\u5927\u7834\u6467\u82b1\u9ee8",
+      "overview": "Hong Kong Superman is a Hong Kong Martial Arts movie starring Sammo Hung.",
+      "popularity": 0.6,
+      "poster_path": "/es8aNWv11c0XTGhagqmHSewoXvz.jpg",
+      "release_date": "1975-06-25",
+      "title": "Hong Kong Superman",
+      "video": false,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/o9LNQq9yxixVeIk5Y4yvEloyLaF.jpg",
+      "genre_ids": [
+        28,
+        16,
+        35
+      ],
+      "id": 672385,
+      "original_language": "ja",
+      "original_title": "\u30ad\u30f3\u8089\u30de\u30f3 \u6674\u308c\u59ff!\u6b63\u7fa9\u8d85\u4eba",
+      "overview": "",
+      "popularity": 0.6,
+      "poster_path": "/6akvPovifB4wjtflHD6ZiszGUiR.jpg",
+      "release_date": "1985-12-21",
+      "title": "Kinnikuman: Hour-of-Triumph! Justice Superman",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        16,
+        27,
+        35
+      ],
+      "id": 724632,
+      "original_language": "ja",
+      "original_title": "\u6b63\u7fa9\u306e\u8d85\u4eba\u7a7a\u3092\u98db\u3076",
+      "overview": "A short animation by Shintaro Kago.",
+      "popularity": 0.6,
+      "poster_path": "/y0kWLdCACBXKsHIvnpIKP6sh3sA.jpg",
+      "release_date": "",
+      "title": "Justice Superman Fly in the Sky!",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        28,
+        16
+      ],
+      "id": 71129,
+      "original_language": "en",
+      "original_title": "The Mechanical Monsters",
+      "overview": "Superman battles a criminal mastermind and his robot army.",
+      "popularity": 2.782,
+      "poster_path": "/3JujDGA5QIwcQ8vMHtt7mxBsl5o.jpg",
+      "release_date": "1941-11-28",
+      "title": "The Mechanical Monsters",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 19
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        878,
+        28,
+        27
+      ],
+      "id": 127675,
+      "original_language": "es",
+      "original_title": "Los aut\u00f3matas de la muerte",
+      "overview": "The evil scientist Dr. Caronte plots to revive the brains of three dead scientists and use them to obtain the formula for the super-powerful neutron bomb. The resulting creation needs blood lots of blood, sending Caronte's midget assistant Nick and his legion of mutant monsters out to get fresh victims. However, the masked atom-superman Neutron vows to put a stop to Caronte's deeds.",
+      "popularity": 0.6,
+      "poster_path": "/wJMNbeqWN27l1LZUYKogdWKK8Dl.jpg",
+      "release_date": "1962-08-10",
+      "title": "Neutron the Atomic Superman vs. the Death Robots",
+      "video": false,
+      "vote_average": 5.1,
+      "vote_count": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gTlV7iUWg2inFhISHIVLUSPD8MW.jpg",
+      "genre_ids": [
+        16,
+        35
+      ],
+      "id": 42557,
+      "original_language": "it",
+      "original_title": "Vip, mio fratello superuomo",
+      "overview": "A satire of modern society or perhaps just a funny tale for children, depending on your age, mood or liking. Recounting the adventures of the last in a line of Supermen, the film pokes fun at the processes that lie behind advertising, politics and our consumer society.",
+      "popularity": 1.794,
+      "poster_path": "/xJ4Oofe8e2eo0SZourXKPEy0Pkx.jpg",
+      "release_date": "1968-10-31",
+      "title": "The SuperVips",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 19
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 464654,
+      "original_language": "en",
+      "original_title": "Superman's 50th Anniversary: A Celebration of the Man of Steel",
+      "overview": "A humourous telling of the history of the comic book superhero.",
+      "popularity": 0.6,
+      "poster_path": "/kkifsxOe4jDrpEdfA7DkcWKgTMA.jpg",
+      "release_date": "1988-02-29",
+      "title": "Superman's 50th Anniversary: A Celebration of the Man of Steel",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        28,
+        878
+      ],
+      "id": 22701,
+      "original_language": "en",
+      "original_title": "Attack from Space",
+      "overview": "The superhero Starman is sent by the Emerald Planet to protect Earth from belligerent aliens from the Sapphire Galaxy. The Sapphireans (or \"Spherions\") kidnap Dr. Yamanaka and force him to use his spaceship against the Earth.",
+      "popularity": 1.76,
+      "poster_path": "/jYSOheo9CQOapwCh5PnEJIjtffw.jpg",
+      "release_date": "1965-01-01",
+      "title": "Attack from Space",
+      "video": false,
+      "vote_average": 4.1,
+      "vote_count": 9
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 82945,
+      "original_language": "en",
+      "original_title": "Mummy Punjabi",
+      "overview": "Mummy Punjabi is a New Age Mother India, with today`s grandeur, intensity, humour & emotions. A complete family entertainer, wherein a Punjabi urban mother balances tradition with her own value system.",
+      "popularity": 0.888,
+      "poster_path": null,
+      "release_date": "2011-08-31",
+      "title": "Mummy Punjabi",
+      "video": false,
+      "vote_average": 6,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6U2B92g8Zp6iVQljD8PP27iBMAH.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 224746,
+      "original_language": "ku",
+      "original_title": "Bekas",
+      "overview": "This is a story about two homeless brothers (Zana, 7) and (Dana, 10) who live on the edge of survival. In the beginning of the story they catch a glimpse of Superman through a hole in the wall at the local cinema. Zana and Dana decide that they want to go to America and live with Superman. Once they get there he can solve all their problems, make their lives easy and punish everyone that has been mean to them. Zana, the younger brother, starts to make a list of all people he is going to tell Superman to punish. On top of the list is Saddam Hussein. Dana on the other hand makes a concrete plan for what they need to get there; money, passports, transportation and a way to get across the boarder. Unfortunately they have neither of those. But in spite of everything they decide to follow the dream. Written by Karzan Kader",
+      "popularity": 3.493,
+      "poster_path": "/tKlYbEvE7yCFZXcabYIQjU00DN8.jpg",
+      "release_date": "2012-11-30",
+      "title": "Bekas",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 34
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        28,
+        16,
+        35
+      ],
+      "id": 690024,
+      "original_language": "en",
+      "original_title": "\u30ad\u30f3\u8089\u30de\u30f3 \u9006\u8972\uff01\u5b87\u5b99\u304b\u304f\u308c\u8d85\u4eba",
+      "overview": "As the whole world watches the Choujin Rugby game on TV, the \"Underground Space Emperor\" Hydra King has his Underground Space Supermen kidnap Robin Mask. Their aim is to lure out the Seigi Choujins and then attack them using the Robin Memo, which contains info on all of the Seigi Choujin's weaknesses. Watching on TV all over the world, Kinnikuman and the Seigi Choujins get together and head for Planet Hydra.",
+      "popularity": 0.6,
+      "poster_path": "/61DkUs9xyHjBVz9tZ5U0ASpvm12.jpg",
+      "release_date": "1985-07-15",
+      "title": "Kinnikuman: Counterattack! Hidden Space Superman",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        35,
+        80,
+        878
+      ],
+      "id": 210204,
+      "original_language": "tr",
+      "original_title": "S\u00fcpermenler",
+      "overview": "The German professor tries out his time machine in Turkey. Everybody is after this new invention - Superman Detective Murat, his cheating colleagues Atak and Matrak as well as the mob leader. Agatha, the daughter of the mob leader, steals heroin with her father's man. The mob leader wants to detect their place by the time machine. Murat, Matrak and Atak struggle for the machine, but the machine blows up, the Professor loses his memory. Atak and Matrak kidnap him. (IMDb)",
+      "popularity": 1.516,
+      "poster_path": "/4kMa19XgDiVrfJgmY5zDnH8o3ds.jpg",
+      "release_date": "1979-01-01",
+      "title": "3 Supermen Against Godfather",
+      "video": false,
+      "vote_average": 3,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        28,
+        16,
+        35
+      ],
+      "id": 690020,
+      "original_language": "en",
+      "original_title": "\u30ad\u30f3\u8089\u30de\u30f3 \u5927\u66b4\u308c\uff01\u6b63\u7fa9\u8d85\u4eba",
+      "overview": "Ooabare! Seigi Choujin is a 1984 Japanese animated film. It is the second theatrical film based on the anime series Kinnikuman. It was released in Japan on December 22, 1984 alongside Dr. Slump and Arale-chan: Hoyoyo! The Treasure of Nanaba Castle and Uchuu Keiji Shaider: Follow the Shigishigi Kidnapping Gang!. It is set after the Seven Akuma Choujin Arc.",
+      "popularity": 0.6,
+      "poster_path": "/uj4yKRC2RnLP6CLMbps2vB88XiI.jpg",
+      "release_date": "1984-12-22",
+      "title": "Kinnikuman: Great Riot! Justice Superman",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        28,
+        878,
+        14
+      ],
+      "id": 80766,
+      "original_language": "es",
+      "original_title": "Santo el enmascarado de plata vs. la invasi\u00f3n de los marcianos",
+      "overview": "In this Mexican sci-fi fantasy, big beefy Martians invade the earth. Ostensibly, they have come to warn people about the dangers of nuclear testing and exploring space, but their real mission becomes manifest when they begin using their special powers and gadgets to exploit weak earthlings.",
+      "popularity": 1.959,
+      "poster_path": "/pXjjpTndARhgrzsidS5xUjuBkeA.jpg",
+      "release_date": "1967-07-27",
+      "title": "Santo vs. the Martian Invasion",
+      "video": false,
+      "vote_average": 5.6,
+      "vote_count": 8
+    }
+  ],
+  "total_pages": 8,
+  "total_results": 149
+}

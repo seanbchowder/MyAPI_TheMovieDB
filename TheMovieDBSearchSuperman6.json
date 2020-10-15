@@ -1,0 +1,371 @@
+{
+  "page": 6,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        12,
+        14,
+        878
+      ],
+      "id": 106913,
+      "original_language": "tr",
+      "original_title": "S\u00fcpermen D\u00f6n\u00fcyor",
+      "overview": "Born out of a Christmas ornaments-filled heaven, Turkish Superman fights the mob in order to save the day!",
+      "popularity": 1.247,
+      "poster_path": "/z0qjm8zEs7J5oY7pJmDjKBasOG1.jpg",
+      "release_date": "1979-04-30",
+      "title": "The Return of Superman",
+      "video": false,
+      "vote_average": 3.3,
+      "vote_count": 8
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18
+      ],
+      "id": 734791,
+      "original_language": "en",
+      "original_title": "Diary 30: Superman is coming to school",
+      "overview": "Me in my awsome Superman outfit!\r Sophia is my girlfriend soon.",
+      "popularity": 0,
+      "poster_path": "/rc31YLm0tNd4SGlqlGAcrm90vFA.jpg",
+      "release_date": "2007-03-02",
+      "title": "Diary 30: Superman is coming to school",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 146053,
+      "original_language": "en",
+      "original_title": "Showdown",
+      "overview": "Superman's reputation is tarnished when a crook begins committing crimes in a Superman costume.",
+      "popularity": 3.201,
+      "poster_path": "/c6xZg35XLOmopaAGtalWHcTQMvu.jpg",
+      "release_date": "1942-10-16",
+      "title": "Showdown",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 9
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 146072,
+      "original_language": "en",
+      "original_title": "The Underground World",
+      "overview": "Superman has to save Lois Lane from a cult of hawk-people in an homage to Edgar Rice Burroughs's \"At the Earth's Core\".",
+      "popularity": 3.632,
+      "poster_path": "/wQF9qXs5W8mzviLshsF3VnOEcTQ.jpg",
+      "release_date": "1943-06-18",
+      "title": "The Underground World",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 7
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        28,
+        16
+      ],
+      "id": 95414,
+      "original_language": "en",
+      "original_title": "The Mad Scientist",
+      "overview": "After The Daily Planet receives a letter from a mad scientist threatening to wreak destruction with his Electrothanasia Ray, Lois Lane heads out in the hopes of getting more information for a news story.",
+      "popularity": 4.995,
+      "poster_path": "/rOo2YdhOhYZyzws8tbveOKFYpWt.jpg",
+      "release_date": "1941-09-26",
+      "title": "The Mad Scientist",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 44
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mxS6GVau7vHUOw4Bh1BzOCL0RPg.jpg",
+      "genre_ids": [],
+      "id": 145969,
+      "original_language": "en",
+      "original_title": "Volcano",
+      "overview": "Superman comes to the rescue when a volcano erupts.",
+      "popularity": 3.091,
+      "poster_path": "/lki1fwPWfG3b6exnCevz7aSYBKw.jpg",
+      "release_date": "1942-07-10",
+      "title": "Volcano",
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 11
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 146061,
+      "original_language": "en",
+      "original_title": "The Mummy Strikes",
+      "overview": "Egyptologists are attacked by mummies, drawing the attention of Superman.",
+      "popularity": 3.344,
+      "poster_path": "/bRL4mttJbGjuNdEPeTErp6v99LW.jpg",
+      "release_date": "1943-02-19",
+      "title": "The Mummy Strikes",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 7
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iITh61m2nhUQ27kfmWH5bGoxEuf.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14,
+        878
+      ],
+      "id": 9651,
+      "original_language": "en",
+      "original_title": "Supergirl",
+      "overview": "After losing a powerful orb, Kara, Superman's cousin, comes to Earth to retrieve it and instead finds herself up against a wicked witch.",
+      "popularity": 11.961,
+      "poster_path": "/6OfuKKCPFclHOj4SSRRpLzF1lfP.jpg",
+      "release_date": "1984-07-01",
+      "title": "Supergirl",
+      "video": false,
+      "vote_average": 4.8,
+      "vote_count": 266
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zyGcixfPjM1NRy4k4bZ8mlOG2JH.jpg",
+      "genre_ids": [
+        16,
+        878
+      ],
+      "id": 123951,
+      "original_language": "ja",
+      "original_title": "\u8d85\u4eba\u30ed\u30c3\u30af",
+      "overview": "The chronicle of the space age written through a certain immortal psionics's activity.",
+      "popularity": 1.786,
+      "poster_path": "/i2E4fKRALeprFEEE7due1tmW6dR.jpg",
+      "release_date": "1984-03-11",
+      "title": "Locke the Superman",
+      "video": false,
+      "vote_average": 6,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mT1dyiI6plcB39jVPFKzhoAKSST.jpg",
+      "genre_ids": [
+        14,
+        16
+      ],
+      "id": 145961,
+      "original_language": "en",
+      "original_title": "The Arctic Giant",
+      "overview": "A frozen Tyrannosaurus rex is found and put on display in a museum, but when he thaws out and revives, Superman has to stop his rampage!",
+      "popularity": 3.668,
+      "poster_path": "/mb7S7awIFe5iQ5zJNpFFkbFU2v7.jpg",
+      "release_date": "1942-02-26",
+      "title": "The Arctic Giant",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 16
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 146058,
+      "original_language": "en",
+      "original_title": "Eleventh Hour",
+      "overview": "Using Clark Kent as a cover, Superman travels to Japan as a saboteur during the war.",
+      "popularity": 2.7,
+      "poster_path": "/28mBxxb6hMarEHkoJc5AhohQ4JD.jpg",
+      "release_date": "1942-11-20",
+      "title": "Eleventh Hour",
+      "video": false,
+      "vote_average": 5.8,
+      "vote_count": 10
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        16
+      ],
+      "id": 146062,
+      "original_language": "en",
+      "original_title": "Jungle Drums",
+      "overview": "Superman discovers a secret Nazi base in the jungle.",
+      "popularity": 2.45,
+      "poster_path": "/wrxihuHaLQ5soRtpDA6jNgIzpIa.jpg",
+      "release_date": "1943-03-26",
+      "title": "Jungle Drums",
+      "video": false,
+      "vote_average": 6.3,
+      "vote_count": 13
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        35,
+        80,
+        53
+      ],
+      "id": 355452,
+      "original_language": "ml",
+      "original_title": "\u0d38\u0d42\u0d2a\u0d4d\u0d2a\u0d7c\u0d2e\u0d3e\u0d7b",
+      "overview": "Nithya is the deputy commissioner of the city who lives with her uncle since both her parents were killed in an accident. She was put on to investigate a corruption case done by the Home Minister and his friend a businessman called Rajan Phillip. Unknowingly she was helped in the investigation by a criminal nicknamed Superman.",
+      "popularity": 0.6,
+      "poster_path": "/pZFwqk124d2YYEywCV9NSV6wsyv.jpg",
+      "release_date": "1997-10-14",
+      "title": "Superman",
+      "video": false,
+      "vote_average": 4.9,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        16
+      ],
+      "id": 71128,
+      "original_language": "en",
+      "original_title": "Japoteurs",
+      "overview": "Superman vs. Japanese spies hijacking a new super-bomber.",
+      "popularity": 2.438,
+      "poster_path": "/8j8upgNmWzlvfkAlLXgqmbhbj2u.jpg",
+      "release_date": "1942-09-17",
+      "title": "Japoteurs",
+      "video": false,
+      "vote_average": 5.5,
+      "vote_count": 11
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        28,
+        16,
+        14
+      ],
+      "id": 145963,
+      "original_language": "en",
+      "original_title": "The Bulleteers",
+      "overview": "Criminals with rocket powered car loot and extort the city, and only Superman can stop them!",
+      "popularity": 2.311,
+      "poster_path": "/uVLYnYmrsOnwGrC0NKbmoyh9NTk.jpg",
+      "release_date": "1942-03-26",
+      "title": "The Bulleteers",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 14
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        16,
+        14
+      ],
+      "id": 145977,
+      "original_language": "en",
+      "original_title": "Terror on the Midway",
+      "overview": "When things go wrong at the circus, it's up to Superman to stop the escaped animals.",
+      "popularity": 2.928,
+      "poster_path": "/tgfPYvWknbX60eIPKD8KUuoMCjL.jpg",
+      "release_date": "1942-08-30",
+      "title": "Terror on the Midway",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 9
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/m9sqpgImaUoZeeJn5acSNXRuCCn.jpg",
+      "genre_ids": [],
+      "id": 145967,
+      "original_language": "en",
+      "original_title": "Electric Earthquake",
+      "overview": "A scientist uses an earthquake machine to threaten the city, and only Superman can stop his extortion plan!",
+      "popularity": 2.568,
+      "poster_path": "/xnwMHCmIHSwnova7Knw7DVlqBQF.jpg",
+      "release_date": "1942-05-15",
+      "title": "Electric Earthquake",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 13
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        35,
+        878
+      ],
+      "id": 67958,
+      "original_language": "ru",
+      "original_title": "\u0421\u0443\u043f\u0435\u0440\u043c\u0435\u043d\u0435\u0434\u0436\u0435\u0440, \u0438\u043b\u0438 \u041c\u043e\u0442\u044b\u0433\u0430 \u0441\u0443\u0434\u044c\u0431\u044b",
+      "overview": "A funny fantasy about mangers, hobbits and other surprising people.",
+      "popularity": 2.706,
+      "poster_path": "/xsEDtNfhwDGb1CXJM7hXslSZSQp.jpg",
+      "release_date": "2011-05-19",
+      "title": "SuperManager, or Hack of the Fate",
+      "video": false,
+      "vote_average": 4.7,
+      "vote_count": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        878
+      ],
+      "id": 106645,
+      "original_language": "th",
+      "original_title": "\u0e22\u0e2d\u0e14\u0e21\u0e19\u0e38\u0e29\u0e22\u0e4c\u0e04\u0e2d\u0e21\u0e1e\u0e34\u0e27\u0e40\u0e15\u0e2d\u0e23\u0e4c",
+      "overview": "Four boys are born with strange features, one has very big ears, one has a tail, one has very big hands, one has a big nose. Becoming friends, they spend most of their time playing and sleeping. Becoming adults, their fathers banish them from the village as they are doing nothing to help the community. Just as they leave, a local mafia gang threatens the villagers to get help to cultivate opium and to provide food for their members. Meanwhile one lady wants to marry one of the boys but wishes that he can remove his tail. He refuses. At night time, while he is sleeping, she cuts his tail. He flees away but looses a lot of blood. A crazy scientific professor finds and decides to save him by using technology. He becomes the Six Million Baht Man ! He then gathers his three other friends to free the villagers from the mafia gang.",
+      "popularity": 0.6,
+      "poster_path": null,
+      "release_date": "1977-01-01",
+      "title": "Computer Superman",
+      "video": false,
+      "vote_average": 2,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        878,
+        10749
+      ],
+      "id": 691114,
+      "original_language": "en",
+      "original_title": "\u7b52\u5b50\u697c\u8d85\u4eba",
+      "overview": "Twenty years ago, a foreign father and son fell into the earth with a meteorite ... School flower Huang Zichen revealed a trench oil hot pot restaurant on the live broadcast program of punishment for punishment, but was inadvertently stirred up by Li Mosen of the same school. Helping to be abused. Huang Zichen repeatedly waited for the opportunity to retaliate and hide his alien identity as the ridiculous schoolmaster Li Mosen. He then adopted a plan to induce Li Mosen to fall in love with himself, and then to abandon the ulterior motives. At the same time, because of picking up the alien ore that Li and his father brought to earth with him, they became the ambitions of the energy crocodile Chen strawberry.",
+      "popularity": 0.6,
+      "poster_path": "/dJIXNCKUiZ9bfsrKyBORAGKoecU.jpg",
+      "release_date": "2019-09-15",
+      "title": "The Ghetto Superman",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    }
+  ],
+  "total_pages": 8,
+  "total_results": 149
+}

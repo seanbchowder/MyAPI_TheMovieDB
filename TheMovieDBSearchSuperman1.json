@@ -1,0 +1,406 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/v6MVBFnQOscITvmAy5N5ras2JKZ.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 1924,
+      "original_language": "en",
+      "original_title": "Superman",
+      "overview": "Mild-mannered Clark Kent works as a reporter at the Daily Planet alongside his crush, Lois Lane. Clark must summon his superhero alter-ego when the nefarious Lex Luthor launches a plan to take over the world.",
+      "popularity": 20.673,
+      "poster_path": "/peEU4dsKTAXO017kXEWk90QpQvU.jpg",
+      "release_date": "1978-12-13",
+      "title": "Superman",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 2394
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8eRscFbRYl681zDfkjv1jjW1KAA.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 1452,
+      "original_language": "en",
+      "original_title": "Superman Returns",
+      "overview": "Superman returns to discover his 5-year absence has allowed Lex Luthor to walk free, and that those he was closest to felt abandoned and have moved on. Luthor plots his ultimate revenge that could see millions killed and change the face of the planet forever, as well as ridding himself of the Man of Steel.",
+      "popularity": 14.754,
+      "poster_path": "/4p527M0wif7dyEQr7UD01dUkYck.jpg",
+      "release_date": "2006-06-28",
+      "title": "Superman Returns",
+      "video": false,
+      "vote_average": 5.6,
+      "vote_count": 2854
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nzs2vnuYolB2dSdX9N8GZ7sz1kP.jpg",
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "id": 8536,
+      "original_language": "en",
+      "original_title": "Superman II",
+      "overview": "Three escaped criminals from the planet Krypton test the Man of Steel's mettle. Led by General Zod, the Kryptonians take control of the White House and partner with Lex Luthor to destroy Superman and rule the world. But Superman, who attempts to make himself human in order to get closer to Lois, realizes he has a responsibility to save the planet.",
+      "popularity": 12.115,
+      "poster_path": "/r9ZRah6rYBoRuPyj8g5Ei411XNM.jpg",
+      "release_date": "1980-12-04",
+      "title": "Superman II",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 1434
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qvBt5JJKX3rnmAU3CIZOGrOaq8m.jpg",
+      "genre_ids": [
+        35,
+        878,
+        28,
+        12
+      ],
+      "id": 9531,
+      "original_language": "en",
+      "original_title": "Superman III",
+      "overview": "Aiming to defeat the Man of Steel, wealthy executive Ross Webster hires bumbling but brilliant Gus Gorman to develop synthetic kryptonite, which yields some unexpected psychological effects in the third installment of the 1980s Superman franchise. Between rekindling romance with his high school sweetheart and saving himself, Superman must contend with a powerful supercomputer.",
+      "popularity": 11.945,
+      "poster_path": "/c4oR6qgZW2s5foGkQi2Dd86KuAS.jpg",
+      "release_date": "1983-06-17",
+      "title": "Superman III",
+      "video": false,
+      "vote_average": 5.4,
+      "vote_count": 1064
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iepqCJMc5MIVrHbkMbkxppSithj.jpg",
+      "genre_ids": [
+        28,
+        12,
+        16
+      ],
+      "id": 166076,
+      "original_language": "en",
+      "original_title": "Superman: Unbound",
+      "overview": "Based on the Geoff Johns/Gary Frank 2008 release \"Superman: Brainiac,\" Superman: Unbound finds the horrific force responsible for the destruction of Krypton (Brainiac) descending upon Earth. Brainiac has crossed the universe, collecting cities from interesting planets, Kandor included, and now the all-knowing, ever-evolving android has his sights fixed on Metropolis. Superman must summon all of his physical and intellectual resources to protect his city, the love of his life, and his newly-arrived cousin, Supergirl.",
+      "popularity": 11.543,
+      "poster_path": "/5fyZJuLbPOc0DHL3euK0w8hIc00.jpg",
+      "release_date": "2013-04-23",
+      "title": "Superman: Unbound",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 220
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zO1nXPpmJylWVHg2eL00HysZqE5.jpg",
+      "genre_ids": [
+        28,
+        16,
+        878,
+        10751
+      ],
+      "id": 13640,
+      "original_language": "en",
+      "original_title": "Superman: Doomsday",
+      "overview": "When LexCorps accidentally unleash a murderous creature, Doomsday, Superman meets his greatest challenge as a champion. Based on the \"The Death of Superman\" storyline that appeared in DC Comics' publications in the 1990s",
+      "popularity": 11.564,
+      "poster_path": "/itvuWm7DFWWzWgW0xgiaKzzWszP.jpg",
+      "release_date": "2007-09-18",
+      "title": "Superman: Doomsday",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 313
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/74H4XXU0q22TSrkPmlqkcWoX5ZZ.jpg",
+      "genre_ids": [
+        28,
+        12,
+        16,
+        878,
+        10751
+      ],
+      "id": 45162,
+      "original_language": "en",
+      "original_title": "Superman/Batman: Apocalypse",
+      "overview": "Batman discovers a mysterious teen-aged girl with superhuman powers and a connection to Superman. When the girl comes to the attention of Darkseid, the evil overlord of Apokolips, events take a decidedly dangerous turn.",
+      "popularity": 14.659,
+      "poster_path": "/zYTm9Zjrf4uLL1mT4UJg4j2Mugu.jpg",
+      "release_date": "2010-09-28",
+      "title": "Superman/Batman: Apocalypse",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 377
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/FTpFec420ztDa6HSpwLxGuwzis.jpg",
+      "genre_ids": [
+        28,
+        12,
+        16
+      ],
+      "id": 56590,
+      "original_language": "en",
+      "original_title": "All Star Superman",
+      "overview": "Lex Luthor enacts his plan to rid the world of Superman, once and for all. Succeeding with solar radiation poisoning, the Man of Steel is slowly dying. With what little times remains, the Last Son of Krypton must confront the revealing of his secret identity to Lois Lane and face Luthor in a final battle.",
+      "popularity": 13.838,
+      "poster_path": "/rwq1qtM8XmejRyn5S2sIBwY3kpS.jpg",
+      "release_date": "2011-02-22",
+      "title": "All Star Superman",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 249
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/doiUtOHzcxXFl0GVQ2n8Ay6Pirx.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "id": 209112,
+      "original_language": "en",
+      "original_title": "Batman v Superman: Dawn of Justice",
+      "overview": "Fearing the actions of a god-like Super Hero left unchecked, Gotham City\u2019s own formidable, forceful vigilante takes on Metropolis\u2019s most revered, modern-day savior, while the world wrestles with what sort of hero it really needs. And with Batman and Superman at war with one another, a new threat quickly arises, putting mankind in greater danger than it\u2019s ever known before.",
+      "popularity": 33.776,
+      "poster_path": "/lQUFeo0oRvtiLKlT5zkQkuCW4jA.jpg",
+      "release_date": "2016-03-23",
+      "title": "Batman v Superman: Dawn of Justice",
+      "video": false,
+      "vote_average": 5.9,
+      "vote_count": 13737
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uehwVV9xuALZ2SXeHGiX4Ay5dR7.jpg",
+      "genre_ids": [
+        28,
+        16,
+        878
+      ],
+      "id": 618355,
+      "original_language": "en",
+      "original_title": "Superman: Red Son",
+      "overview": "Set in the thick of the Cold War, Red Son introduces us to a Superman who landed in the USSR during the 1950s and grows up to become a Soviet symbol that fights for the preservation of Stalin\u2019s brand of communism.",
+      "popularity": 13.871,
+      "poster_path": "/FVU9HZ87VfYMe5vIJvM3hFTG5i.jpg",
+      "release_date": "2020-02-24",
+      "title": "Superman: Red Son",
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 436
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vlobFDvHRFrcAKQmO1atrGTbELW.jpg",
+      "genre_ids": [
+        16,
+        28
+      ],
+      "id": 103269,
+      "original_language": "en",
+      "original_title": "Superman vs. The Elite",
+      "overview": "The Man of Steel finds himself outshone by a new team of ruthless superheroes who hold his idealism in contempt.",
+      "popularity": 11.701,
+      "poster_path": "/nAPZZpAahiZHmG0aKKFbvGEUVl5.jpg",
+      "release_date": "2012-06-12",
+      "title": "Superman vs. The Elite",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 221
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2GIA8FKNxI69RnytQquoDbrAJ7L.jpg",
+      "genre_ids": [
+        28,
+        12,
+        16,
+        10751
+      ],
+      "id": 22855,
+      "original_language": "en",
+      "original_title": "Superman/Batman: Public Enemies",
+      "overview": "United States President Lex Luthor uses the oncoming trajectory of a Kryptonite meteor to frame Superman and declare a $1 billion bounty on the heads of the Man of Steel and his \u2018partner in crime\u2019, Batman. Heroes and villains alike launch a relentless pursuit of Superman and Batman, who must unite\u2014and recruit help\u2014to try and stave off the action-packed onslaught, stop the meteor Luthors plot.",
+      "popularity": 15.438,
+      "poster_path": "/vKabU2oNgCpp4uM5ITnXtaInbWL.jpg",
+      "release_date": "2009-09-29",
+      "title": "Superman/Batman: Public Enemies",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 367
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bazlsLkNuhy3IuhviepqvlMm2hV.jpg",
+      "genre_ids": [
+        28,
+        16,
+        878
+      ],
+      "id": 618354,
+      "original_language": "en",
+      "original_title": "Superman: Man of Tomorrow",
+      "overview": "It\u2019s the dawn of a new age of heroes, and Metropolis has just met its first. But as Daily Planet intern Clark Kent \u2013 working alongside reporter Lois Lane \u2013 secretly wields his alien powers of flight, super-strength and x-ray vision in the battle for good, there\u2019s even greater trouble on the horizon.",
+      "popularity": 15.617,
+      "poster_path": "/6Bbq8qQWpoApLZYWFFAuZ1r2gFw.jpg",
+      "release_date": "2020-08-23",
+      "title": "Superman: Man of Tomorrow",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wA1eufMEvM0RdQk24gj5yaDWLjQ.jpg",
+      "genre_ids": [
+        16,
+        28,
+        18,
+        878
+      ],
+      "id": 487670,
+      "original_language": "en",
+      "original_title": "The Death of Superman",
+      "overview": "When a hulking monster arrives on Earth and begins a mindless rampage, the Justice League is quickly called in to stop it. But it soon becomes apparent that only Superman can stand against the monstrosity.",
+      "popularity": 11.045,
+      "poster_path": "/y0uxSHaSFmt6XaBJgjkeLqe7aM.jpg",
+      "release_date": "2018-07-24",
+      "title": "The Death of Superman",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 404
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/goi1QB29rJ5lUYdgS4tk5xXWZn0.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 39440,
+      "original_language": "en",
+      "original_title": "Waiting for \"Superman\"",
+      "overview": "Gripping, heartbreaking, and ultimately hopeful, Waiting for Superman is an impassioned indictment of the American school system from An Inconvenient Truth director Davis Guggenheim.",
+      "popularity": 11.606,
+      "poster_path": "/l7mRlEi4VCEH7sfgaXX1b6LzsXn.jpg",
+      "release_date": "2010-09-24",
+      "title": "Waiting for \"Superman\"",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 92
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/n1I2NqQBp2ZpgzuUrcpDgEjK9MP.jpg",
+      "genre_ids": [
+        12,
+        16,
+        28,
+        14
+      ],
+      "id": 630656,
+      "original_language": "en",
+      "original_title": "The Death and Return of Superman",
+      "overview": "The Death of Superman and Reign of the Supermen now presented as an over two-hour unabridged and seamless animated feature. Witness the no-holds-barred battle between the Justice League and an unstoppable alien force known only as Doomsday, a battle that only Superman can finish and will forever change the face of Metropolis.",
+      "popularity": 11.42,
+      "poster_path": "/9BqeqvGfMOfsbY5X4mljLTVKO1X.jpg",
+      "release_date": "2019-10-01",
+      "title": "The Death and Return of Superman",
+      "video": true,
+      "vote_average": 7.2,
+      "vote_count": 112
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rarv0b3OyhG2y9qltGogtlVGk6b.jpg",
+      "genre_ids": [
+        28,
+        16,
+        878,
+        10751
+      ],
+      "id": 19323,
+      "original_language": "en",
+      "original_title": "Superman: Brainiac Attacks",
+      "overview": "Embittered by Superman's heroic successes and soaring popularity, Lex Luthor forms a dangerous alliance with the powerful computer/villain Brainiac. Using advanced weaponry and a special strain of Kryptonite harvested from the far reaches of outer space, Luthor specifically redesigns Brainiac to defeat the Man of Steel.",
+      "popularity": 7.516,
+      "poster_path": "/9fmtK2Wk52demZBGDsIAmLr3EY0.jpg",
+      "release_date": "2006-06-20",
+      "title": "Superman: Brainiac Attacks",
+      "video": false,
+      "vote_average": 6.1,
+      "vote_count": 66
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bmRWHmg3QnjiKz01lTr2fqKuIOt.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 634767,
+      "original_language": "en",
+      "original_title": "St. Louis Superman",
+      "overview": "Bruce Franks Jr. is a 34-year-old battle rapper, Ferguson activist and state representative from St. Louis, Missouri. Known as Superman to his constituents, he is a political figure the likes of which you've never seen - full of contradictions and deep insights, who has overcome unspeakable loss to become one of the most exciting and unapologetic young leaders in the country. This short verit\u00e9 documentary follows Bruce at a critical juncture in his life, when he is forced to deal with the mental trauma he's been carrying for the nearly 30 years since his 9-year-old brother was shot and killed in front of him, in order to find peace and truly fulfill his destiny as a leader for his community.",
+      "popularity": 3.847,
+      "poster_path": "/qV4eTXHQSumCDbJzEJizoBFR6Pe.jpg",
+      "release_date": "2019-02-20",
+      "title": "St. Louis Superman",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 8
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/spFSZBt83uruCwedMN8HR2uFklI.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 11411,
+      "original_language": "en",
+      "original_title": "Superman IV: The Quest for Peace",
+      "overview": "With global superpowers engaged in an increasingly hostile arms race, Superman leads a crusade to rid the world of nuclear weapons. But Lex Luthor, recently sprung from jail, is declaring war on the Man of Steel and his quest to save the planet. Using a strand of Superman's hair, Luthor synthesizes a powerful ally known as Nuclear Man and ignites an epic battle spanning Earth and space.",
+      "popularity": 11.66,
+      "poster_path": "/ab2WycBtq6pNlENQ6ByRYJ01bsF.jpg",
+      "release_date": "1987-07-23",
+      "title": "Superman IV: The Quest for Peace",
+      "video": false,
+      "vote_average": 4.4,
+      "vote_count": 731
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 124305,
+      "original_language": "en",
+      "original_title": "Superman: Red Son",
+      "overview": "In Red Son, Superman's rocket ship lands on a Ukrainian collective farm rather than in Kansas, an implied reason being a small time difference (a handful of hours) from the original timeline, meaning Earth's rotation placed the Ukraine in the ship's path instead of Kansas. Instead of fighting for \"...truth, justice, and the American Way\", Superman is described in Soviet radio broadcasts \"...as the Champion of the common worker who fights a never-ending battle for Stalin, socialism, and the international expansion of the Warsaw Pact.\" His \"secret identity\" (i.e. the name his adoptive parents gave him) is a state secret.",
+      "popularity": 5.834,
+      "poster_path": null,
+      "release_date": "2009-07-30",
+      "title": "Superman: Red Son",
+      "video": false,
+      "vote_average": 8.6,
+      "vote_count": 10
+    }
+  ],
+  "total_pages": 8,
+  "total_results": 149
+}

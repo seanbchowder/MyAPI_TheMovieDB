@@ -1,0 +1,188 @@
+{
+  "page": 8,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 205493,
+      "original_language": "cn",
+      "original_title": "\u731b\u9f8d\u5f81\u6771",
+      "overview": "\"The Green Hornet\" (a red spandex and cape wearing duo) is called in to assist in rescuing a kidnapped scientist.",
+      "popularity": 0.943,
+      "poster_path": "/iT8zRz7dtl3TlyhpspszbdRJP5a.jpg",
+      "release_date": "1975-06-11",
+      "title": "Bruce Lee Against Supermen",
+      "video": false,
+      "vote_average": 5.4,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        28,
+        12,
+        16,
+        14,
+        878
+      ],
+      "id": 640810,
+      "original_language": "en",
+      "original_title": "DC Showcase Original Shorts Collection",
+      "overview": "An anthology of DC Showcase stories consisting of a new Superman/Shazam feature and extended versions of older shorts.",
+      "popularity": 2.609,
+      "poster_path": "/pYSkfX3ISUUpkNHbswHC8osWH4P.jpg",
+      "release_date": "2010-11-09",
+      "title": "DC Showcase Original Shorts Collection",
+      "video": true,
+      "vote_average": 7.7,
+      "vote_count": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18
+      ],
+      "id": 375639,
+      "original_language": "ja",
+      "original_title": "\u571f\u5fcd\u8a18\u3000\u98a8\u306e\u5929\u72d7",
+      "overview": "Yojiro orders a samurai to kill a debtor. The samurai decides not to trust the judgment of his master, which makes him an outcast and he has to flee...",
+      "popularity": 0.84,
+      "poster_path": null,
+      "release_date": "1970-11-14",
+      "title": "Duel in the Wind",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        28,
+        12,
+        35,
+        14,
+        878
+      ],
+      "id": 29352,
+      "original_language": "it",
+      "original_title": "Superuomini, superdonne, superbotte",
+      "overview": "Three men with supernatural powers interfere in a tribal warfare to prevent evil Amazons destroying the inhabitants of a village.",
+      "popularity": 0.806,
+      "poster_path": "/3GgyeC14lbwQNIounK8AUq0HPEn.jpg",
+      "release_date": "1974-04-11",
+      "title": "Super Stooges vs the Wonder Women",
+      "video": false,
+      "vote_average": 4,
+      "vote_count": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oKgbKFnhWdZp6DGuNU9pMLu96ln.jpg",
+      "genre_ids": [
+        35,
+        37
+      ],
+      "id": 50953,
+      "original_language": "en",
+      "original_title": "The Great Scout & Cathouse Thursday",
+      "overview": "Sam Longwood, a frontiersman who has seen better days, spies the gold-mine partner, Jack Colby, who ran off with all the gold from a mine they were prospecting fifteen years earlier. He tells his other partners from that time, Joe Knox and Billy, and they confront Colby demanding not only the thousand dollars he took but an addition fifty-nine thousand for their trouble. After being thwarted in this attempt, they, and a would-be whore named Thursday, hatch a plan to kidnap Colby's wife, Nancy Sue, who is coincidently Sam's old flame, but find that Nancy Sue is not the sweet girl that Sam remembers.",
+      "popularity": 3.845,
+      "poster_path": "/1l0NOF7NxU42iysXJuUyrpFcUgw.jpg",
+      "release_date": "1976-06-23",
+      "title": "The Great Scout & Cathouse Thursday",
+      "video": false,
+      "vote_average": 4.6,
+      "vote_count": 13
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 40435,
+      "original_language": "zh",
+      "original_title": "\u4e2d\u570b\u8d85\u4eba",
+      "overview": "The surface of the Earth is under attack, thousands of people are killed in this unprovoked attacked. The cause, Princess Dragonmon and her army of monsters have decided to invade. Princess Dragonmon is an alien whose race has been hiding under us for centuries waiting to attack and the time is right. A doctor has been preparing for something like this and turns his assistant Rayma into the cyborg hero known as Inframan. Now only Inframan stands between the Earth and Princess Dragonmon but when a close friend is captured and brainwashed, can she be stopped with this inside man feeding her info?",
+      "popularity": 4.251,
+      "poster_path": "/yvSiJCL6VOenwmYVV2VzsWfgnRN.jpg",
+      "release_date": "1975-01-01",
+      "title": "Super Inframan",
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 34
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/47MKMiXNtHkXD6GahlWnk4D5pyZ.jpg",
+      "genre_ids": [
+        28,
+        35,
+        9648,
+        53
+      ],
+      "id": 31270,
+      "original_language": "fr",
+      "original_title": "Les Barbouzes",
+      "overview": "A cold-war spy parody. After the death of an armaments manufacturer, an international group of spies is drawn into a high-stakes battle of wits to obtain the valuable military patents which have been inherited by the lovely widow.",
+      "popularity": 6.587,
+      "poster_path": "/cMo9ug86A9GSN1eodrqDQP4vWa9.jpg",
+      "release_date": "1964-12-10",
+      "title": "The Great Spy Chase",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 76
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9HXt4ebl24DKYCakorha1JoyM2A.jpg",
+      "genre_ids": [
+        28,
+        14,
+        878
+      ],
+      "id": 63432,
+      "original_language": "it",
+      "original_title": "I fantastici 3 Supermen",
+      "overview": "FBI agent Brad joins Tony and Nick, the self styled Supermen who battle crime wearing bullet-proof super-suits. They are on a case involving radioactive counterfeit money and people who can be broken down into precious jewels.",
+      "popularity": 1.248,
+      "poster_path": "/rlwXfMsbPwaiCPtc1rMkwRiruUT.jpg",
+      "release_date": "1967-02-04",
+      "title": "The Three Fantastic Supermen",
+      "video": false,
+      "vote_average": 5.5,
+      "vote_count": 10
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        35,
+        878
+      ],
+      "id": 65904,
+      "original_language": "cs",
+      "original_title": "Kdo chce zab\u00edt Jessii?",
+      "overview": "In this zany Czechoslovakian comedy, a scientist invents a machine that projects a sleeping person's dream on a screen; disaster soon follows when the machine malfunctions and the cartoon-like dream characters become very real!",
+      "popularity": 1.012,
+      "poster_path": "/Pjuhr07Idca7slQLo3qALcR7m6.jpg",
+      "release_date": "1966-08-26",
+      "title": "Who Wants to Kill Jessie?",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 19
+    }
+  ],
+  "total_pages": 8,
+  "total_results": 149
+}

@@ -1,0 +1,387 @@
+{
+  "page": 2,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/480WtWQ3URWDoqjKUOXTUzF18cL.jpg",
+      "genre_ids": [
+        28,
+        16,
+        10770,
+        878
+      ],
+      "id": 17074,
+      "original_language": "en",
+      "original_title": "The Batman Superman Movie: World's Finest",
+      "overview": "Joker goes to Metropolis with an offer and plan to kill Superman for Lex Luthor while Batman pursues the clown to Superman's turf",
+      "popularity": 8.436,
+      "poster_path": "/dQxwNGQ6pQLCUE5vaI9PwIZK6UC.jpg",
+      "release_date": "1998-08-18",
+      "title": "The Batman Superman Movie: World's Finest",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 132
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ceAC23ziMWnlGK7zZj2GV8kfvZd.jpg",
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "id": 624479,
+      "original_language": "en",
+      "original_title": "Superman II: The Richard Donner Cut",
+      "overview": "Superman agrees to sacrifice his powers to start a relationship with Lois Lane, unaware that three Kryptonian criminals he inadvertently released are conquering Earth.",
+      "popularity": 9.106,
+      "poster_path": "/oPYeFSFO0ljmly8XvrjwWzVXT6e.jpg",
+      "release_date": "2006-11-02",
+      "title": "Superman II: The Richard Donner Cut",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 73
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1GzlEn3AOlBFrx6vsqq1JAkH4G3.jpg",
+      "genre_ids": [
+        16,
+        28,
+        878,
+        14
+      ],
+      "id": 43641,
+      "original_language": "en",
+      "original_title": "Superman/Shazam!: The Return of Black Adam",
+      "overview": "Chosen the world\u2019s protector against the Seven Deadly Enemies of Man \u2013 pride, envy, greed, hatred, selfishness, laziness and injustice \u2013 young Billy Batson accepts his destiny as Captain Marvel. Battling alongside Superman against nefarious Black Adam, Billy soon discovers the challenge super heroes ultimately face: is it revenge or justice?",
+      "popularity": 9.537,
+      "poster_path": "/tMQHV6qh8YcoGB28CGDQxCZLnjY.jpg",
+      "release_date": "2010-11-09",
+      "title": "Superman/Shazam!: The Return of Black Adam",
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 285
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 292081,
+      "original_language": "en",
+      "original_title": "Sunshine Superman",
+      "overview": "Documentary portrait of Carl Boenish, the father of the BASE jumping movement, whose early passion for skydiving led him to ever more spectacular -and dangerous- feats of foot-launched human flight.",
+      "popularity": 3.175,
+      "poster_path": "/hCfe6xbM3dcV5AYTL5KQn8AUKRD.jpg",
+      "release_date": "2015-05-22",
+      "title": "Sunshine Superman",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 16
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pZ1mEYQJfpYzGvlSJVh8NVAdFXQ.jpg",
+      "genre_ids": [
+        28,
+        12,
+        18,
+        14,
+        878,
+        10749,
+        10751
+      ],
+      "id": 41800,
+      "original_language": "en",
+      "original_title": "Superman and the Mole-Men",
+      "overview": "Reporters Clark Kent and Lois Lane arrive in the small town of Silsby to witness the drilling of the world's deepest oil well. The drill, however, has penetrated the underground home of a race of small, furry people who then come to the surface at night to look around. The fact that they glow in the dark scares the townfolk, who form a mob, led by the vicious Luke Benson, intent on killing the strange people. Only Superman has a chance to prevent this tragedy.",
+      "popularity": 3.671,
+      "poster_path": "/9vRltKcX4wK4ms0A6PbRz42EMdq.jpg",
+      "release_date": "1951-11-23",
+      "title": "Superman and the Mole-Men",
+      "video": false,
+      "vote_average": 5.5,
+      "vote_count": 36
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 279144,
+      "original_language": "en",
+      "original_title": "The Death of \"Superman Lives\": What Happened?",
+      "overview": "The Death of 'Superman Lives': What Happened? feature film documents the process of development of the ill fated \"Superman Lives\" movie, that was to be directed by Tim Burton and star Nicolas Cage as the man of steel himself, Superman. The project went through years of development before the plug was pulled, and this documentary interviews the major players: Kevin Smith, Tim Burton, Jon Peters, Dan Gilroy, Colleen Atwood, Lorenzo di Bonaventura and many many more.",
+      "popularity": 8.805,
+      "poster_path": "/oned45Htl78YYkf1ByyodDmLzZ0.jpg",
+      "release_date": "2015-05-01",
+      "title": "The Death of \"Superman Lives\": What Happened?",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 84
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1Bi9Ga5aRaTwyF3vbOI33q6EZGz.jpg",
+      "genre_ids": [
+        16,
+        99
+      ],
+      "id": 256421,
+      "original_language": "en",
+      "original_title": "Superman 75th Anniversary",
+      "overview": "An animated short about the 75 years of Superman.",
+      "popularity": 3.023,
+      "poster_path": "/fvOtZGpSd3I0pqiv2shzB4OztCx.jpg",
+      "release_date": "2013-10-13",
+      "title": "Superman 75th Anniversary",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 36
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        16,
+        10751
+      ],
+      "id": 49076,
+      "original_language": "en",
+      "original_title": "Superman - The Last Son of Krypton",
+      "overview": "The last survivor of the dead planet Krypton uses his amazing powers to defend people of his adopted world Earth.",
+      "popularity": 4.737,
+      "poster_path": "/fRIdZp60uZUtXm3sBdKzwmNMFWc.jpg",
+      "release_date": "1996-09-06",
+      "title": "Superman - The Last Son of Krypton",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 31
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/26MgrzN0y93qrOZ9wqJzw6cq7wN.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 340304,
+      "original_language": "en",
+      "original_title": "National Theatre Live: Man and Superman",
+      "overview": "Academy Award\u00ae nominee Ralph Fiennes (The English Patient, Schindler\u2019s List, Oedipus at the National Theatre) plays Jack Tanner in this exhilarating reinvention of Shaw\u2019s witty, provocative classic.  Jack Tanner, celebrated radical thinker and rich bachelor, seems an unlikely choice as guardian to the alluring heiress, Ann. But she takes it in her assured stride and, despite the love of a poet, she decides to marry and tame this dazzling revolutionary.  Tanner, appalled by the whiff of domesticity, is tipped off by his chauffeur and flees to Spain, where he is captured by bandits and meets The Devil. An extraordinary dream-debate, heaven versus hell, ensues. Following in hot pursuit, Ann is there when Tanner awakes, as fierce in her certainty as he is in his.  A romantic comedy, an epic fairytale, a fiery philosophical debate, Man and Superman asks fundamental questions about how we live.",
+      "popularity": 3.753,
+      "poster_path": "/sQ1kzot10gJWEKvG0CHAlIjASvl.jpg",
+      "release_date": "2015-11-19",
+      "title": "National Theatre Live: Man and Superman",
+      "video": true,
+      "vote_average": 7,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        35
+      ],
+      "id": 129790,
+      "original_language": "en",
+      "original_title": "The Death and Return of Superman",
+      "overview": "A somewhat-mostly-accurate educational parody film by Max Landis about Superman's death and revival by DC.",
+      "popularity": 3.132,
+      "poster_path": null,
+      "release_date": "2011-11-27",
+      "title": "The Death and Return of Superman",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 22
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9hPPQz7z1HaVXqsHMq9HyMIDjjP.jpg",
+      "genre_ids": [
+        28,
+        80,
+        878
+      ],
+      "id": 126712,
+      "original_language": "en",
+      "original_title": "Superman",
+      "overview": "Superman comes to Earth as a child and grows up to be his home's first superhero with his first major challenge being to oppose The Spider Lady.",
+      "popularity": 1.53,
+      "poster_path": "/yHVlaxy9sOeYM40d4IkDKKw1s2n.jpg",
+      "release_date": "1948-07-15",
+      "title": "Superman",
+      "video": false,
+      "vote_average": 5.1,
+      "vote_count": 9
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        14,
+        878
+      ],
+      "id": 192650,
+      "original_language": "en",
+      "original_title": "Stamp Day for Superman",
+      "overview": "Superman's commitment to promote US Savings Stamps is temporarily delayed when Lois is kidnapped.",
+      "popularity": 3.354,
+      "poster_path": "/uOkcsKK8cwd5DmSUAGSDQgkotIc.jpg",
+      "release_date": "1954-01-01",
+      "title": "Stamp Day for Superman",
+      "video": false,
+      "vote_average": 6,
+      "vote_count": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 167595,
+      "original_language": "hi",
+      "original_title": "Superman",
+      "overview": "In this Indian take on the classic superhero story, a young baby from the doomed planet Krypton is sent to Earth, where he is adopted by an elderly couple in India who name him Shekhar. After growing to an adult and learning about his origins and powers, he goes to the city in search of his school sweetheart, Gita, who has become a newpaper reporter. At the same time, Verma, Shekhar's rival for Gita's affection in their school days, has gone on to become a crime lord and general super-villain. Verma has hatched at plan to become rich by devastating part of India with natural disasters, then buying up all of the abandoned land. Will Superman/Shekhar be able to put a stop to Verma's evil plan? Will he win Gita's heart? Will he keep his double identity a secret?",
+      "popularity": 1.02,
+      "poster_path": "/boyt0QHBC9rbXUhV9lYbimVEKw2.jpg",
+      "release_date": "1987-12-31",
+      "title": "Superman",
+      "video": false,
+      "vote_average": 4.8,
+      "vote_count": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        14,
+        10402
+      ],
+      "id": 138720,
+      "original_language": "te",
+      "original_title": "Superman",
+      "overview": "This is the South Indian version of Superman. The hero, Raja, witnesses the murder of his parents by cowboys. He vows revenge, and spends the rest of the 2 hours and 15 minutes of the flick getting his revenge. Throw in some dance numbers, bad hairdos, outrageous acting, and you have yourself a classic of Indian Cinema few have ever seen. The actor who plays Superman, Rama Rao Taraka Nandamuri, looks like a fat Elvis impersonator.",
+      "popularity": 1.336,
+      "poster_path": null,
+      "release_date": "1980-10-18",
+      "title": "Superman",
+      "video": false,
+      "vote_average": 3.6,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 320145,
+      "original_language": "en",
+      "original_title": "How Superman Defeated the KKK",
+      "overview": "In the aftermath of World War II, writer and activist, Stetson Kennedy, sets out on a one-man mission to infiltrate the Ku Klux Klan. Kennedy risks his life to pass on valuable Klan information to the producers of the Superman Radio Show.",
+      "popularity": 3.199,
+      "poster_path": "/dsWppnVtAdxcm30fCRxnAN1f95b.jpg",
+      "release_date": "2015-01-19",
+      "title": "How Superman Defeated the KKK",
+      "video": false,
+      "vote_average": 2,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/htEbSMVfIZJiwo3OjXJKYXrE3fF.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 324249,
+      "original_language": "en",
+      "original_title": "Requiem for Krypton: Making 'Superman Returns'",
+      "overview": "A detailed behind-the-scenes documentary on the making of Superman Returns.",
+      "popularity": 3.233,
+      "poster_path": "/eC1XKswKSoyDyJXXZszLTuwUHli.jpg",
+      "release_date": "2006-11-28",
+      "title": "Requiem for Krypton: Making 'Superman Returns'",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        35
+      ],
+      "id": 135307,
+      "original_language": "fr",
+      "original_title": "Derrick contre Superman",
+      "overview": "Derrick and his deputy, Harry Klein, back from holidays, discover that french TV channel 5 is dead. They'll have to build a plan to create a new \"new 5 channel\". They'll be helped by Starsky & Hutch, Matt Houston, Captain Kirk or french inspector Navarro, while Superman, assisted by Number 6 and Roger Moore, will try to thwart their plan.",
+      "popularity": 1.899,
+      "poster_path": "/aK1RfIusGaruu8INTfNI291ayyw.jpg",
+      "release_date": "1992-12-23",
+      "title": "Derrick contre Superman",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 13
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fB5NQZJ2RzuF1XiOBYzgJategC7.jpg",
+      "genre_ids": [
+        12,
+        878
+      ],
+      "id": 106923,
+      "original_language": "it",
+      "original_title": "L'invincibile Superman",
+      "overview": "A masked wrestler/superhero goes up against a madman and his army of robots.",
+      "popularity": 0.741,
+      "poster_path": "/ckR5Ayo22jnp4dcaXQYYSKwcUFf.jpg",
+      "release_date": "1968-01-26",
+      "title": "Superargo and the Faceless Giants",
+      "video": false,
+      "vote_average": 4.5,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ctQXNHFmnQL5LPhjc9KlNwMu5CW.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 24479,
+      "original_language": "en",
+      "original_title": "Look, Up in the Sky! The Amazing Story of Superman",
+      "overview": "The history of the comic book superhero, Superman, in his various media incarnations.",
+      "popularity": 4.726,
+      "poster_path": "/njxYrHZYfYHQ1gia19t2Nt5Bxfp.jpg",
+      "release_date": "2006-06-12",
+      "title": "Look, Up in the Sky! The Amazing Story of Superman",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 11
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 55649,
+      "original_language": "en",
+      "original_title": "The Science of Superman",
+      "overview": "Documentary about the science related to Superman's Powers.",
+      "popularity": 1.44,
+      "poster_path": "/rkmNvVPU2PNxS3BwxjxUsrzq6S9.jpg",
+      "release_date": "2006-06-29",
+      "title": "The Science of Superman",
+      "video": false,
+      "vote_average": 1,
+      "vote_count": 1
+    }
+  ],
+  "total_pages": 8,
+  "total_results": 149
+}

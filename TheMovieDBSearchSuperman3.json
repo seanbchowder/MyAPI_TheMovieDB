@@ -1,0 +1,360 @@
+{
+  "page": 3,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        28,
+        878
+      ],
+      "id": 463562,
+      "original_language": "en",
+      "original_title": "Superman",
+      "overview": "Feature version of the 1948 Columbia serial film, never exhibited or otherwise made available to the public itself in the USA.",
+      "popularity": 0.673,
+      "poster_path": null,
+      "release_date": "1953-05-16",
+      "title": "Superman",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 325315,
+      "original_language": "en",
+      "original_title": "Superman Super Villains: Brainiac",
+      "overview": "This collection of three episodes from the animated Superman series focuses on his nemesis Brainiac. Superman Super-Villains: Brainiac movie Included are the installments STOLEN MEMORIES, KNIGHT TIME, and NEW KIDS IN TOWN.",
+      "popularity": 1.387,
+      "poster_path": "/b1IaQdrvkImBaj41nIQIrVuaOr0.jpg",
+      "release_date": "2013-05-28",
+      "title": "Superman Super Villains: Brainiac",
+      "video": true,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yPei1bn8Dv1hdu0x9wmi4uUdYpj.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 627616,
+      "original_language": "en",
+      "original_title": "Pretending I'm a Superman: The Tony Hawk Video Game Story",
+      "overview": "The story of the skaters and developers who came together to create one of the best-selling games of all time, changing the skateboarding scene and pop culture forever.",
+      "popularity": 5.376,
+      "poster_path": "/n7sw8CRfuuKhdmkwb4TiKaMcaQG.jpg",
+      "release_date": "2020-02-29",
+      "title": "Pretending I'm a Superman: The Tony Hawk Video Game Story",
+      "video": false,
+      "vote_average": 6,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 558077,
+      "original_language": "bn",
+      "original_title": "Superman",
+      "overview": "A child from a dying world is sent to Earth, where his alien physiology renders him superhuman. Bengali remake of the 1978 classic.",
+      "popularity": 0.6,
+      "poster_path": null,
+      "release_date": "",
+      "title": "Superman",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1QdOkEAJDMl6VIhvNzwYBEDfM9F.jpg",
+      "genre_ids": [
+        16
+      ],
+      "id": 342605,
+      "original_language": "es",
+      "original_title": "Max Fleischer's Superman 1941-1942",
+      "overview": "More than just a landmark in superhero animation, Max Fleischer's Superman shorts were no less than the foundation for so many shows that succeeded it. Playing in theaters in 1941-42, only a few years after the Man of Steel made his debut in Action Comics, these 17 exciting films were produced by Fleischer and made famous the phrase \"This looks like a job for Superman!\" At 10 minutes, each film had just enough time to run the opening credits, establish the threat, let Lois Lane make a headstrong rush into peril, and allow Clark Kent to change to his alter ego and save the day. The films show a remarkably dynamic and atmospheric storytelling style that enables them to hold up for modern viewers. At first the films followed a science fiction-fantasy theme, but not unexpectedly for that time soon focused on wartime concerns.",
+      "popularity": 0.991,
+      "poster_path": "/fqwlHx8FXeUHQGqC8K1cp5hY4F.jpg",
+      "release_date": "1941-09-26",
+      "title": "Max Fleischer's Superman 1941-1942",
+      "video": true,
+      "vote_average": 7.2,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 558353,
+      "original_language": "de",
+      "original_title": "Superman - Teil1",
+      "overview": "",
+      "popularity": 0.6,
+      "poster_path": "/79DPDmnJqgXEvH2jk2ns58U1awQ.jpg",
+      "release_date": "",
+      "title": "Superman - Teil1",
+      "video": true,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/f2q7jycqufaA0bSXzJERpdTtose.jpg",
+      "genre_ids": [
+        28,
+        878
+      ],
+      "id": 106358,
+      "original_language": "en",
+      "original_title": "Atom Man vs Superman",
+      "overview": "Serial - sequel to Superman (1948); Superman faces off against Lex Luthor.",
+      "popularity": 1.55,
+      "poster_path": "/8KWZlR9EcsxxQclVTeWri5wdIgh.jpg",
+      "release_date": "1950-07-20",
+      "title": "Atom Man vs Superman",
+      "video": false,
+      "vote_average": 4.1,
+      "vote_count": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 458350,
+      "original_language": "en",
+      "original_title": "The Making of 'Superman II'",
+      "overview": "Documentary about the making of the sequel to Superman.",
+      "popularity": 1.538,
+      "poster_path": "/9kbBiIOTbOZrrcTRzNTse1kJcKN.jpg",
+      "release_date": "1982-01-01",
+      "title": "The Making of 'Superman II'",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18
+      ],
+      "id": 148918,
+      "original_language": "ro",
+      "original_title": "Superman, Spiderman sau Batman",
+      "overview": "Aron, a 5-year-old boy, sets together with his worried father on a journey at the end of which he wishes, like the superheroes in the comic books, to save his mother suffering from a heart condition.",
+      "popularity": 0.774,
+      "poster_path": "/iUp85s5s7eaPbuCUNqOCeJCEVpY.jpg",
+      "release_date": "2011-06-01",
+      "title": "Superman, Spiderman or Batman",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3JFuFtCk2jmevI1fARuhKjS83px.jpg",
+      "genre_ids": [
+        28
+      ],
+      "id": 88937,
+      "original_language": "en",
+      "original_title": "Abar, the First Black Superman",
+      "overview": "Upon moving into a bigoted neighborhood, the scientist father of a persecuted black family gives a superpower elixir to a tough bodyguard, who thus becomes a superpowered crimefighter.",
+      "popularity": 1.88,
+      "poster_path": "/o7baytmXVpGPTZK0bs0egOqdzUM.jpg",
+      "release_date": "1977-03-01",
+      "title": "Abar, the First Black Superman",
+      "video": false,
+      "vote_average": 4.1,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 144221,
+      "original_language": "en",
+      "original_title": "Man and Superman",
+      "overview": "An adaptation of George Bernard Shaw's play.",
+      "popularity": 0.6,
+      "poster_path": null,
+      "release_date": "1982-12-31",
+      "title": "Man and Superman",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        16
+      ],
+      "id": 300384,
+      "original_language": "en",
+      "original_title": "Superman Super Villains : Metallo",
+      "overview": "Driven by revenge, Metallo wants nothing more than to destroy Superman. Possessing an indestructible allow boy powered by a heart of Kryptonite, Metallo is one of the Man of Steel's most brutal, explosive villains. So get ready for three of the biggest battles Superman has yet to face. First, witness the birth of Metallo in The Way Of All Flesh as mercenary John Corben, once seemingly invincible, is brought to his knees by a crippling disease. In a desperate attempt for a new lease on life, Corben agrees for his mind to be transplanted into a metal android skeleton by none other than Lex Luthor. Then a loss of memory allows Metallo to play the hero in Action Figures, but playtime is over when Superman's appearance bring back the true monster inside. In Superman's Pal, Jimmy Olsen is bait to lure Superman into a trap with deadly consequences. It's a collision of metal and mayhem that will leave you cheering for more!",
+      "popularity": 0.922,
+      "poster_path": "/tNPtSVpnm6ze0Z30UM6CgU4hle6.jpg",
+      "release_date": "2013-05-28",
+      "title": "Superman Super Villains : Metallo",
+      "video": true,
+      "vote_average": 4,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 310545,
+      "original_language": "en",
+      "original_title": "Superman vs. Batman: When Heroes Collide",
+      "overview": "A short documentary feature outlining the climactic battle scene in Warner Brothers Animation's The Dark Knight Rises Part 2.",
+      "popularity": 1.864,
+      "poster_path": null,
+      "release_date": "2013-01-29",
+      "title": "Superman vs. Batman: When Heroes Collide",
+      "video": true,
+      "vote_average": 5.8,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 571096,
+      "original_language": "en",
+      "original_title": "Superman Now",
+      "overview": "Writer Grant Morrison and artist Frank Quitely take over the Superman stories to refocus and revitalize them, centered on a more relaxed and reflective Superman.",
+      "popularity": 0.6,
+      "poster_path": "/u7cZyQVcfKccWRPk98UeOHK2b83.jpg",
+      "release_date": "2011-02-22",
+      "title": "Superman Now",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        12,
+        80
+      ],
+      "id": 107181,
+      "original_language": "it",
+      "original_title": "Goldface il fantastico Superman",
+      "overview": "Goldface fights dr. Cobra's, aided by a bare chested African named Kotar. When Kotar's not punching folks, he's eating peanuts, bugging out his eyes, and speaking gibberish while referring to Goldy as \"B'wana\".",
+      "popularity": 0.6,
+      "poster_path": "/1tnnSilnqUGW25BzMWiVUVPEQ8P.jpg",
+      "release_date": "1967-12-22",
+      "title": "Goldface, the Fantastic Superman",
+      "video": false,
+      "vote_average": 4,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "id": 533208,
+      "original_language": "en",
+      "original_title": "Dark Superman",
+      "overview": "A what if story set in the Detective Comics Universe. Catch your favorite heroes and villains in this epic live action/animated feature. Created for the fans by a fan. Superman goes rogue in this 45 minute high-energy and action packed movie brought to you by Striking Star Productions. The Justice League, Teen Titans and an all star cast of DC's favorite characters clash in this game changing comic book movie event. Will Superman destroy the world? Can the world's finest stop the onslaught of the invading Red Lantern Corps. The comic book world will never be the same.",
+      "popularity": 0.6,
+      "poster_path": "/ioP05zg1lzUyUa3l5pnk1vjxS2k.jpg",
+      "release_date": "2016-04-25",
+      "title": "Dark Superman",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        14
+      ],
+      "id": 537657,
+      "original_language": "ml",
+      "original_title": "Little Superman",
+      "overview": "Willy Wilson, a 12 year old comic book aficionado. Willy falls into a manhole and gets trapped inside it for days and soon figures out that he has the ability to fly and lift things up with the help of telekinesis.",
+      "popularity": 0.6,
+      "poster_path": "/m8IcsbUiji251kX2UhE3fd1sF06.jpg",
+      "release_date": "2014-11-07",
+      "title": "Little Superman",
+      "video": false,
+      "vote_average": 3,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 576286,
+      "original_language": "en",
+      "original_title": "Superman Classic",
+      "overview": "Clark Kent and Lois Lane exit the Daily Planet building with Lois asking Clark why he always runs to the bathroom whenever a big story breaks. He explains to her that his bladder goes out of control whenever he gets nervous. Suddenly, a giant robot appears from out of nowhere and attacks Metropolis. Clark quickly disappears into a nearby phone booth and changes into Superman to combat the robotic threat. After a brief battle, Superman throws the robot into the air, only to see armies of dozens of robots flying in the sky.",
+      "popularity": 0.602,
+      "poster_path": "/ratCEaseGADhALKIWDp484zy0ui.jpg",
+      "release_date": "2011-02-06",
+      "title": "Superman Classic",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 570716,
+      "original_language": "en",
+      "original_title": "Superman: Requiem",
+      "overview": "",
+      "popularity": 0.6,
+      "poster_path": "/gtbdkohBZYx9aNIhdjI8k7SiKge.jpg",
+      "release_date": "2011-11-07",
+      "title": "Superman: Requiem",
+      "video": false,
+      "vote_average": 1,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18
+      ],
+      "id": 725041,
+      "original_language": "en",
+      "original_title": "Subordinate Superman",
+      "overview": "After a brutal break-up with his girlfriend, an anxious young man wanders his town dressed in a superhero costume.",
+      "popularity": 0.6,
+      "poster_path": "/DPUgy4vr8YiLILeeQB5VopdHnw.jpg",
+      "release_date": "",
+      "title": "Subordinate Superman",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    }
+  ],
+  "total_pages": 8,
+  "total_results": 149
+}
